@@ -21,7 +21,7 @@ h2 {
 }
 h3 {
     color: #231E23;
-    margin: 0 auto;
+    margin: 20px auto;
     width: 25%;
 }
 
@@ -63,6 +63,11 @@ p {
     bottom: 300px;
 }
 
+.skill-row {
+    width: 50%;
+    margin: 10px auto 50px auto;
+}
+
 p {
     line-height: 2;
 }
@@ -73,6 +78,6 @@ hr {
     border-color: #BF1363;
     border-style: dotted;
     border-width: 0 0 10px 0;
-    width: 5%;
-    postion
+    width: 5%; 
+    margin: 25px auto 25px auto;
 }
